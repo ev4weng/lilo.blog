@@ -3,7 +3,7 @@ title = "Massnahmen statt Strafen"
 date = "2023-04-04"
 draft = false
 pinned = false
-image = "https://www.bing.com/images/search?view=detailV2&ccid=N%2bbP9vRA&id=AB02369EFBCE8509BC95D7F74565BFA54E87519F&thid=OIP.N-bP9vRAuox7YZGF754rAQHaEJ&mediaurl=https%3a%2f%2fcdn.unitycms.io%2fimage%2focroped%2f1200%2c1200%2c1000%2c1000%2c0%2c0%2f2ymrlJ_bYCs%2fAWqviFlrqarAxH6VoelcAh.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.37e6cff6f440ba8c7b619185ef9e2b01%3frik%3dn1GHTqW%252fZUX31w%26pid%3dImgRaw%26r%3d0&exph=673&expw=1200&q=zelle+des+gef%c3%a4ngnis+thun&simid=607986053285087268&FORM=IRPRST&ck=8B01CCCE701D891B2E9A6F946C7D3316&selectedIndex=1&ajaxhist=0&ajaxserp=0"
+image = ""
 description = ""
 +++
 Soll man Jugendstraftäter*innen härter bestrafen? Jugendanwalt Ronald Lips und die Praktikantin Jessica Dolder vom Regionalgefängnis Thun sind dagegen.
